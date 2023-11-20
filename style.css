@@ -1,0 +1,37 @@
+ /*------------- Whole Document---------------- */
+/*
+body {
+    font-family: 'Muli';
+    font-size: 19px;
+    color:orange;
+    background:gray;
+}
+
+.header-container-wrapper {
+	background-color:orange;
+}   
+
+h1 {
+  background-color:black;
+  color: white;
+}
+*/
+
+.navbar {
+  background-color:lightseagreen;
+  /*border-color:black;*/
+}
+
+/*
+.navbar-brand {
+  color:red;
+}
+
+
+.section.sidebar {
+  background-color:black;
+}
+
+a:link {
+  color: blue;
+} */
