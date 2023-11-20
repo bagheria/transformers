@@ -1,6 +1,0 @@
-try:
- for line ..
-
-
-except:
- f.__next__()
