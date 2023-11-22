@@ -93,15 +93,12 @@ This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](http
 
 ## Column 1
 
-### Lectures
+##### Lecture
 
-We adapt the course as we go along. To ensure that you are working with the latest version of the course materials, we encourage all students to access the materials online.
+-   [Sequence modeling](lectures/lecture_01.pdf)
 
-You can find the lecture slides here:
-
--   [Lecture 1: Introduction](lectures/lecture_01.pdf)
--   [Lecture 2: Text classification](lectures/lecture_02.pdf)
--   [Lecture 3: Word embedding](lectures/lecture_03.pdf)
+##### Lab
+-   [Recurrent neural networks versus CNNs](practicals/practical_01_answers.html)
 
 # Day 2
 
@@ -109,25 +106,5 @@ You can find the lecture slides here:
 
 ### Practicals
 
-We adapt the course as we go along. To ensure that you are working with the latest version of the course materials, we encourage all students to access the materials online.
-
-Here you will find the practical files for the lab sessions:
-
-Practical 1:
-
-<!-- - [Practical 1](practicals/Practical 1/Practical_01.html) -->
-
--   [Data for Practical 1](practicals/Practical%201/data.zip)
--   [Practical 1_Answers](practicals/Practical%201/Practical_01_answers.html)
-
-Practical 2:
-
-<!-- * [Practical 2](practicals/Practical 2/Practical_02.html) -->
-
--   [Practical 2_Answers](practicals/Practical%202/Practical_02_answers.html)
-
-Practical 3:
-
-<!-- - [Practical 3](practicals/Practical 3/Practical_03.html) -->
-
--   [Practical 3_Answers](practicals/Practical%203/Practical_03_answers.html)
+-   Lecture: [Transformers](lectures/lecture_02.pdf)
+-   Lab: [Classification with transforers](practicals/practical_02_answers.html)
