@@ -93,18 +93,21 @@ This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](http
 
 ## Column 1
 
-##### Lecture
+#### Lecture
 
 -   [Sequence modeling](lectures/lecture_01.pdf)
 
-##### Lab
+#### Lab
 -   [Recurrent neural networks versus CNNs](practicals/practical_01_answers.html)
 
 # Day 2
 
 ## Column 1
 
-### Practicals
+#### Lecture
 
--   Lecture: [Transformers](lectures/lecture_02.pdf)
--   Lab: [Classification with transforers](practicals/practical_02_answers.html)
+-   [Transformers](lectures/lecture_02.pdf)
+
+#### Lab
+
+-   [Classification with transformers](practicals/practical_02_answers.html)
