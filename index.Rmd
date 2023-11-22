@@ -39,7 +39,7 @@ Location: [Hijmans van den Berghgebouw 3.63](https://www.uu.nl/hijmans-van-den-b
 
 ### Outline
 
-In this workshop, participants will delve into the world of text mining, leveraging the power of transformer models to analyze, classify, and interpret (large-scale) text data. The workshop emphasizes a practical, hands-on approach, allowing attendees to work with real-world data sets.
+In this workshop, participants will delve into the world of text mining, leveraging the power of transformer models to analyze, classify, and interpret (large-scale) text data. The workshop emphasizes a practical lab session, hands-on approach, allowing attendees to work with real-world data sets.
 
 The workshop deals with the following topics:
 
@@ -67,7 +67,7 @@ Chapter 10 of Jurafsky, D., Martin, J.H. (2023). Speech and language processing,
 |:-----------|:---------|:----------|
 |  09:00     | 10:15    | Lecture   |
 |            |**Break** |           |
-|  10:30     | 11:30    | Practical |
+|  10:30     | 11:30    | Lab       |
 |  11:30     | 12:00    | Discussion|
 
 
