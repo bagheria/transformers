@@ -22,9 +22,9 @@ This dashboard covers the materials for the workshop on Transformers.
 \
 Speakers:
 
-* [Ayoub Bagheri](https://www.uu.nl/staff/ABagheri)
-
 * [Albert Gatt](https://www.uu.nl/staff/AGatt)
+
+* [Ayoub Bagheri](https://www.uu.nl/staff/ABagheri)
 
 * [Hadi Mohammadi](https://www.uu.nl/staff/HMohammadi)
 
@@ -95,10 +95,13 @@ This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](http
 
 #### Lecture
 
--   [Sequence modeling](lectures/lecture_01.pdf)
+-   [Introduction to Large Language Models](lectures/Lecture 1. LLMs, Sequence models & attention.pdf)
+
+#### Data
+-   [Drug review dataset](practicals/data.zip)
 
 #### Lab
--   [Recurrent neural networks versus CNNs](practicals/practical_01_answers.html)
+-   [Recurrent, Convolutional and Bidirectional Neural Networks](practicals/practical_01_answers.html)
 
 # Day 2
 
