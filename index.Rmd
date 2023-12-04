@@ -47,7 +47,7 @@ The workshop deals with the following topics:
 * Explore the fundamental principles of encoder-decoder architectures in natural language processing.
 * Investigate the role of attention mechanisms in improving the performance of neural network models.
 * Delve into the transformer architecture, a cornerstone in modern NLP.
-* Implement encoder-decoder models, LSTMs, and transformers in Python.
+* Implement deep learning models including LSTMs and transformers in Python.
 * Investigate how transformers can be fine-tuned for specific tasks.
 
 ### Practicalities
@@ -84,7 +84,7 @@ Python is a general-purpose interpreted, interactive, object-oriented, and high-
 
 We expect that many of you will have some experience with Python; for the rest of you, this section will serve as a quick crash course both on the Python programming language and on the use of Python in Google Colab:
 
-Follow the [tutorial on Python in Google Colab for the Applied Text Mining course from here.](Python_in_Google_Colab_Applied_Text_Mining.html)
+Follow the [tutorial on Python in Google Colab from the Applied Text Mining summer course.](Python_in_Google_Colab_Applied_Text_Mining.html)
 
 This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP).
 
