@@ -77,7 +77,7 @@ Chapter 10 of Jurafsky, D., Martin, J.H. (2023). Speech and language processing,
 
 ### Preparing your machine for the workshop
 
-Bring a laptop computer to the workshop and make sure that you have an Internet connection to be able to use Python in Google Colab. If you are using PyCharm or Jupyte Notebook, also check that you have full write access and administrator rights to the machine. We will explore programming and compiling in this workshop. Some corporate laptops come with limited access for their users, we therefore advise you to bring a personal laptop computer, if you have one.
+Bring a laptop computer to the workshop and make sure that you have an Internet connection to be able to use Python in Google Colab. If you are using PyCharm or Jupyter Notebook, also check that you have full write access and administrator rights to the machine. We will explore programming and compiling in this workshop. Some corporate laptops come with limited access for their users, we therefore advise you to bring a personal laptop computer, if you have one.
 
 ### Python in Google Colab
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It is a powerful environment for scientific computing.
@@ -95,7 +95,7 @@ This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](http
 
 #### Lecture
 
--   [Introduction to Large Language Models](lectures/Lecture 1. LLMs, Sequence models & attention.pdf)
+-   [Introduction to Large Language Models, Sequence Models & Attention](lectures/Lecture 1. LLMs, Sequence models & attention.pdf)
 
 #### Data
 -   [Drug review dataset](practicals/data.zip)
@@ -109,8 +109,8 @@ This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](http
 
 #### Lecture
 
--   [Transformers](lectures/lecture_02.pdf)
+-   [Transformers and LLMs](lectures/Lecture 2. Transformers and LLMs.pdf)
 
 #### Lab
 
--   [Classification with transformers](practicals/practical_02_answers.html)
+-   [Transformers for Text Analysis](practicals/practical_02_answers.html)
